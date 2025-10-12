@@ -7,11 +7,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 Future Engineer passionate about **Robotics, Automation, and Software Development**  
-- 💼 Currently working at **Formulatrix** in Lab Automation  
-- 🎯 Goals: Build a **robotics studio brand** and pursue **MSc in Mechatronics & Robotics (Germany)**  
+- 💼 Currently working at **Formulatrix**  
 - 🌱 Currently learning: `C++`, `Python`, `Embedded Systems`, and `Machine Learning`  
-- ⚡ Fun fact: I balance **gym 🏋️**, **basketball 🏀**, and **coding 💻** in my daily routine  
-
 ---
 
 ## 🛠️ Tech Stack
