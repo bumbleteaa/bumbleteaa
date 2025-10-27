@@ -1,14 +1,7 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20👋,%20I'm%20Lucky Setiawan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 - 🎓 Future Engineer passionate about **Robotics, Automation, and Software Development**  
 - 💼 Currently working at **Formulatrix**  
-- 🌱 Currently learning: `C++`, `Python`, `Embedded Systems`, and `Machine Learning`  
+- 🌱 Currently learning: `C++`, `C#`, `Embedded Systems`, and `Web Technology`  
 ---
 
 ## 🛠️ Tech Stack
@@ -34,24 +27,9 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [**Automation Robotics Toolkit**](https://github.com/YourUsername/your-repo) – Custom toolkit for lab robotics automation  
-🔹 [**IoT Smart Home System**](https://github.com/YourUsername/your-repo) – Embedded system with real-time monitoring  
-🔹 [**Data Science Playground**](https://github.com/YourUsername/your-repo) – Machine learning & cheminformatics experiments  
+🔹 [**SerialNumberOCR**](https://github.com/bumbleteaa/SerialNumberOCR) – Detecting PCBA serial number using TesseractOCR and WebForm
+🔹 [**My Food: Chinese Food Restaurant**](https://github.com/YourUsername/your-repo) – Restaurant information system using Laravel Filament
 
-👉 Check out my [repositories](https://github.com/YourUsername?tab=repositories) for more!
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p>
@@ -67,8 +45,3 @@
   
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
-</p>
