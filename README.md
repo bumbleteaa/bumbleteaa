@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-- 🎓 Future Engineer passionate about **Robotics, Automation, and Software Development**  
+- 🎓 Passionate about **Robotics, Automation, and Software Development**  
 - 💼 Currently working at **Formulatrix**  
 - 🌱 Currently learning: `C++`, `C#`, `Embedded Systems`, and `Web Technology`  
 ---
