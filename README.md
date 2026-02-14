@@ -20,7 +20,6 @@
   <!-- Microcontroller -->
   <img src="https://img.shields.io/badge/STM32-0072C6?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-3C3C3B?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
