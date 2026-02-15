@@ -1,10 +1,10 @@
-## 👨‍💻 About Me
-- 🎓 Passionate about **Robotics, Automation, and Software Development**  
-- 💼 Currently working at **Formulatrix**  
-- 🌱 Currently learning: `C++`, `C#`, `Embedded Systems`, and `Web Technology`  
+##  About Me
+- Passionate about **Robotics, Automation, and Software Development**  
+- Currently working at **Formulatrix**  
+- Currently learning: `C++`, `C#`, `Embedded Systems`, and `Web Technology`  
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
@@ -25,12 +25,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 🔹 [**SerialNumberOCR**](https://github.com/bumbleteaa/SerialNumberOCR) – Detecting PCBA serial number using TesseractOCR and WebForm
 🔹 [**My Food: Chinese Food Restaurant**](https://github.com/YourUsername/your-repo) – Restaurant information system using Laravel Filament
 
 
-## 🌐 Connect With Me
+## Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/lucky-setiawan-310517198/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
