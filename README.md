@@ -1,7 +1,9 @@
 ##  About Me
-- Passionate about **Robotics, Automation, and Software Development**  
-- Currently working at **Formulatrix**  
-- Currently learning: `C++`, `C#`, `Embedded Systems`, and `Web Technology`  
+- I craft software that talks to machines.
+- Currently at Formulatrix, working on automation systems for SMT manufacturing.
+- My technical interests span `.NET backend`, `embedded systems`, and `electronics` —
+
+And I'm moving toward the intersection of control theory, edge inference, and industrial robotics. I think the most interesting engineering problems are the ones that can't pretend hardware doesn't exist.
 ---
 
 ## Tech Stack
@@ -24,8 +26,8 @@
 ---
 
 ## Featured Projects
-🔹 [**SerialNumberOCR**](https://github.com/bumbleteaa/SerialNumberOCR) – Detecting PCBA serial number using TesseractOCR and WebForm
-🔹 [**My Food: Chinese Food Restaurant**](https://github.com/YourUsername/your-repo) – Restaurant information system using Laravel Filament
+🔹 [**EToolkit**](https://github.com/bumbleteaa/EToolkit) – ASP.NET based site for improving SMT (Surface Mount Technology) assembly pipeline
+🔹 [**AssemblyLense**](https://github.com/YourUsername/your-repo) – AssemblyLense is an imaging service that captures and reads serial numbers from physical components via USB camera, returning a structured identifier for documentation and traceability purposes.
 
 
 ## Connect With Me
