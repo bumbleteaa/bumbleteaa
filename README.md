@@ -1,9 +1,7 @@
 ##  About Me
 - I craft software that talks to machines.
 - Currently at Formulatrix, working on automation systems for SMT manufacturing.
-- My technical interests span `.NET backend`, `embedded systems`, and `electronics` —
-
-And I'm moving toward the intersection of control theory, edge inference, and industrial robotics. I think the most interesting engineering problems are the ones that can't pretend hardware doesn't exist.
+- My technical interests span `.NET backend`, `embedded systems`, and `electronics` 
 ---
 
 ## Tech Stack
